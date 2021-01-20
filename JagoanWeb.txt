@@ -1,0 +1,4 @@
+JagoanWeb
+- Menginstall Git
+- Konsisten untuk membuat web
+- Membuat project
