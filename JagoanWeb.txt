@@ -1,6 +1,6 @@
 JagoanWeb
-- Menginstall Git
 - Konsisten untuk membuat web
 - Membuat project
 - Menyelesaikan project
 - Mencatat
+- Mengumpulkan project
